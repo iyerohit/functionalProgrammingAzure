@@ -1,0 +1,10 @@
+com\example\demo\DemoApplication.class
+com\example\demo\Controller\TaskController.class
+com\example\demo\model\Numbers.class
+com\example\demo\Controller\FunctionalControllers.class
+com\example\demo\model\NumberClass.class
+com\example\demo\Repository\TaskRepository.class
+com\example\demo\Controller\test.class
+com\example\demo\Repository\NumbersRepository.class
+com\example\demo\model\Task.class
+com\example\demo\Controller\NumberClassController.class
